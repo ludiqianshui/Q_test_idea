@@ -1,6 +1,6 @@
 '''
 Created on 11 Aug 2017
-@author: qsongsss
+@author: qsong
 '''
 import unittest
 import urllib2
